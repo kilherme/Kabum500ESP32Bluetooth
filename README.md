@@ -16,4 +16,4 @@ Material necessário:
   
 ESP32 não salva o controle, toda vez é necessário colocar no modo de pareamento.  
 Receptor interno do aparelho fica na frente do aparelho, portando o led precisa ficar no para-choque e apontar pra baixo se possivel.  
-Pode-se prender o ESP32+bateria+LED no Controle Bluetooth porém o LED IR para Arduino é fraco.
+Pode-se prender o ESP32+bateria+LED no Controle Bluetooth porém o módulo LED IR para Arduino é fraco.
