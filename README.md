@@ -13,7 +13,9 @@ Material necessário:
 -Bateria de Lithium ou PowerBank  
 -LED Infravermelho com resistor ou Placa já pronta pra arduino  
 -Controle Bluetooth  
--Cabos 
+-Cabos  
+  
+LED Infravermelho conectado ao pino 4 do ESP32 mas isso pode ser mudado alterando o PinDefinitionsAndMore.h
   
 ESP32 não salva o controle, toda vez é necessário colocar no modo de pareamento.  
 Receptor interno do aparelho fica na frente do aparelho, portando o led precisa ficar no para-choque e apontar pra baixo se possivel.  
