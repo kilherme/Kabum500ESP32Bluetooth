@@ -1,4 +1,4 @@
-# Kabum500ESP32Bluetooth V0.9
+# Kabum Smart500 ESP32 IR-Bluetooth V0.9
 Projeto para Controlar Robo Aspirador Kabum Smart 500 / Liectroux-C30B / Liectroux-XR500 e talvez Ropo Glass 3 e ABIR X6 usando ESP32, transmissor Infravermelho e controle Bluetooth
 
 Usa as bibliotecas pra Arduino BluePad32 e ESP32  
