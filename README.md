@@ -11,7 +11,7 @@ https://github.com/Arduino-IRremote/Arduino-IRremote
 Material necessário:  
 -ESP32, de preferência com suporte a bateria de lithium  
 -Bateria de Lithium ou PowerBank  
--LED com resistor ou Placa já pronta pra arduino  
+-LED Infravermelho com resistor ou Placa já pronta pra arduino  
 -Controle Bluetooth  
 -Cabos 
   
