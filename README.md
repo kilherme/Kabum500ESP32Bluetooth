@@ -11,4 +11,4 @@ Material necessário:
 -Bateria de Lithium ou PowerBank
 -LED com resistor ou Placa já pronta pra arduino
 ESP32 não salva o controle, toda vez é necessário colocar no modo de pareamento.
-Receptor interno do aparelho fica na frente, portando o led precisa apontar pra baixo se possivel
+Receptor interno do aparelho fica na frente do aparelho, portando o led precisa ficar no para-choque e apontar pra baixo se possivel
