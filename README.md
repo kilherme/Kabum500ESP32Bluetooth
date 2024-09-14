@@ -7,7 +7,7 @@ https://github.com/ricardoquesada/bluepad32
 O Tutorial para Receber e Enviar via Infravermelho pode ser encontrado em:
 https://github.com/Arduino-IRremote/Arduino-IRremote
 
-Material necessário:
+Material necessário:  
 -ESP32, de preferência com suporte a bateria de lithium
 -Bateria de Lithium ou PowerBank
 -LED com resistor ou Placa já pronta pra arduino
