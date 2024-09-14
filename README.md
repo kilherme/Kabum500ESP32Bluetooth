@@ -2,6 +2,7 @@
 Projeto para Controlar Robo Aspirador Kabum Smart 500/ Liectroux-C30B usando ESP32, transmissor Infravermelho e controle Bluetooth
 
 Usa as bibliotecas pra Arduino BluePad32 e ESP32  
+  
 O Tutorial para conectar e configurar com controle pode ser encontrado em:  
 https://github.com/ricardoquesada/bluepad32  
 O Tutorial para Receber e Enviar via Infravermelho pode ser encontrado em:  
