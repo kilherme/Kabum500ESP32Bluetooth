@@ -1,0 +1,69 @@
+
+---UP---
+Protocol=PulseDistance Raw-Data=0x7A2D55 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19600us Raw-Data=0x7A2D55 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2950, 600, 1600, 600, 500, 0x7A2D55, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+---DOWN---
+Protocol=PulseDistance Raw-Data=0x441E55 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19600us Raw-Data=0x441E55 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3050, 2950, 600, 1600, 600, 500, 0x441E55, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+---LEFT---
+Protocol=PulseDistance Raw-Data=0xF2A555 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19650us Raw-Data=0xF2A555 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2950, 600, 1600, 600, 500, 0xF2A555, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+---RIGHT---
+Protocol=PulseDistance Raw-Data=0x8CE155 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19600us Raw-Data=0x8CE155 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2950, 600, 1600, 600, 500, 0x8CE155, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+---PLAY---
+Protocol=PulseDistance Raw-Data=0x26955 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19700us Raw-Data=0x26955 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3050, 2950, 600, 1600, 600, 500, 0x26955, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+---HOME---
+Protocol=PulseDistance Raw-Data=0xB6C355 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19600us Raw-Data=0xB6C355 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2950, 600, 1600, 600, 500, 0xB6C355, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+---TYPE---
+Protocol=PulseDistance Raw-Data=0x673C55 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19600us Raw-Data=0x673C55 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2900, 600, 1600, 600, 500, 0x673C55, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+Protocol=PulseDistance Raw-Data=0xAFD255 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19650us Raw-Data=0xAFD255 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2950, 600, 1600, 600, 500, 0xAFD255, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+Protocol=PulseDistance Raw-Data=0x137855 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19600us Raw-Data=0x137855 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2950, 600, 1600, 600, 500, 0x137855, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+---MODE---
+Protocol=PulseDistance Raw-Data=0x3E4B55 24 bits LSB first
+Protocol=PulseDistance Repeat gap=19700us Raw-Data=0x3E4B55 24 bits LSB first
+Send on a 8 bit platform with: IrSender.sendPulseDistanceWidth(38, 3100, 2900, 700, 1550, 700, 450, 0x3E4B55, 24, PROTOCOL_IS_LSB_FIRST, <RepeatPeriodMillis>, <numberOfRepeats>);
+
+
+
+
+
+---BASE---
+
+Protocol=PulseDistance Repeat gap=42200us Raw-Data=0x65 8 bits LSB first
+
+Protocol=PulseDistance Repeat gap=42200us Raw-Data=0x65 8 bits LSB first
+
+Protocol=PulseDistance Repeat gap=42300us Raw-Data=0x65 8 bits LSB first
+
+Protocol=PulseDistance Repeat gap=42250us Raw-Data=0x9A 8 bits LSB first
+
+Protocol=PulseDistance Repeat gap=42200us Raw-Data=0x9A 8 bits LSB first
+
+Protocol=PulseDistance Repeat gap=42250us Raw-Data=0x9A 8 bits LSB first
+
+Protocol=PulseDistance Repeat gap=42250us Raw-Data=0x9A 8 bits LSB first
+
+
+
+
+
+
+
