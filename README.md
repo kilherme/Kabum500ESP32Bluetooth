@@ -25,4 +25,4 @@ Pode-se prender o ESP32+bateria+LED no Controle Bluetooth porém o módulo HX-53
   
 Precisa apertar o botão várias vezes para continuar o movimento, preciso alterar isso quando tiver tempo...  
   
-Testado somente no Kabum Smart500
+Testado somente no Kabum Smart500 e Xiaomi Bluetooth Gamepad
