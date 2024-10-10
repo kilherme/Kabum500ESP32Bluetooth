@@ -5,7 +5,7 @@ FAQ:
 -Por que não usar Wi-fi?
 Cada comando é enviado até a nuvem através de uma API e a nuvem envia o comando para o dispositivo, adicionando grande delay e tornando a função dependente de servidor externo.
 -Por que não usar controle remoto infravermelho que vem junto?
-A idéia é algo mais durável e agradável de se controlar que o controle original, além da possibilidade de integrar o ESP32 no controle para recriar o controle do aparelho.
+A idéia é algo mais durável e agradável de se controlar que o controle original, além da possibilidade de integrar o ESP32 no gamepad para recriar o controle do aparelho.
 
 No futuro, penso em substituir o módulo WR3 interno pelo ESP32 e enviar comandos pela serial ttl.
 
